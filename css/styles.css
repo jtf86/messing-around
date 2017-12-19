@@ -1,0 +1,16 @@
+.content {
+    /* margin-left: 50%; */
+    text-align: center;
+}
+
+h2 {
+    color: red;
+}
+
+img {
+    height: 200px;
+}
+
+p {
+    display: none;
+}
